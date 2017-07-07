@@ -1,0 +1,5 @@
+a <- c(1,2,3,4,4,2,1)
+n <- length(a)
+m <- max(a)
+b <- rep(0,m)
+for (i in )
